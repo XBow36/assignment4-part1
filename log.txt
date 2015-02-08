@@ -1,0 +1,7 @@
+Start: Sat, 7 Feb 2015 9:00:00 
+End: Sat, 7 Feb 2015 12:00:00
+Tasks: reread lecture and read up more on PHP.
+
+Start: Sat, 7 Feb 2015 14:00:00
+End: Sat, 7 Feb 2015 15:30:00
+Tasks: started to write up pseudo code for log-in php, content1.php
