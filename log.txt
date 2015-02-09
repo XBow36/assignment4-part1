@@ -5,3 +5,23 @@ Tasks: reread lecture and read up more on PHP.
 Start: Sat, 7 Feb 2015 14:00:00
 End: Sat, 7 Feb 2015 15:30:00
 Tasks: started to write up pseudo code for log-in php, content1.php
+
+Start: Sun, 8 Feb 2015 9:00:00
+End: Sun, 8 Feb 2015 12:00:00
+Tasks: finished login, content1, content2 and started looking into loopback.php portion
+
+Start: Sun, 8 Feb 2015 12:30:00
+End: Sun, 8 Feb 2015 1:30:00
+Tasks: not sure if I understood the instruction perfectly, I opted to create 2 different forms with one for post and one for get.
+Where the user puts in a json file url and I parse thorugh it and display it back to them.
+
+Start: Sun, 8 Feb 2015 18:00:00
+End: Sun, 8 Feb 2015 21:00:00
+Tasks: finished the timestable, took a lot longer than i thought, lots of error checking, display is not as neat as I would like.
+Need to polish it up, maybe change up syntax of the html <tr> and <td>s.
+
+Start: Sun, 8 Feb 2015 22:00:00
+End: Sun, 8 Feb 2015 21:00:00
+Tasks: Extremely frustrated, the forms were all displaing great but now nothing displays, just a blank page. Even when I do view
+source it gives a blank page as well. Tried in IE and still the same thing, when using view source it shows the html, head, and body
+tags but no actual html code...
